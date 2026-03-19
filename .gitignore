@@ -2,9 +2,6 @@
 *.code-workspace
 # Python Virtual Environments
 venv/
-env/
-ENV/
-.env
 
 # Python Cache
 __pycache__/
