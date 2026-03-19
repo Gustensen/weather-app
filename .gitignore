@@ -1,11 +1,20 @@
-# Code Workspace
-*.code-workspace
 # Python Virtual Environments
 venv/
+.venv/
 
 # Python Cache
 __pycache__/
 *.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local editor settings
+.vscode/
+
+# Local OS junk
+.DS_Store
+Thumbs.db
 
 # Node/React
 node_modules/
