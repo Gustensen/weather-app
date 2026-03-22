@@ -1,3 +1,5 @@
+# Database files
+*.db
 # Python Virtual Environments
 venv/
 .venv/
