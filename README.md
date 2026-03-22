@@ -1,4 +1,3 @@
-                                Weather App
 A weather application designed to track current conditions, provide 7-day forecasts, and manage historical search data with full CRUD (Create, Read, Update, Delete) capabilities.
 
 🚀 System Architecture
